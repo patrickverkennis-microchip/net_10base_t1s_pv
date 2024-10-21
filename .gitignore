@@ -14,3 +14,4 @@ mcc-manifest-autosave.yml
 **/*.X/build
 **/*.X/.generated_files
 **/*.code-workspace
+**/H3
