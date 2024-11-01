@@ -1007,6 +1007,8 @@
                   value="${memories.instruction.ram.ranges}"/>
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-47001fff"/>
+        <property key="programmerToGoFilePath"
+                  value="C:/User/Mplabx-projects/net_10base_t1s_pv/apps/tcpip_pic32cx-sg41_lan867x/tcpip_pic32cx-sg41_lan867x.X/debug/default/tcpip_pic32cx-sg41_lan867x_ptg"/>
         <property key="programoptions.donoteraseauxmem" value="false"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.pgmentry.voltage" value="low"/>
